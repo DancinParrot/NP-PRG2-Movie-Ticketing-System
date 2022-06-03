@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PRG2_T07_Team5/1.0.0": {
+        "runtime": {
+          "PRG2_T07_Team5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRG2_T07_Team5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

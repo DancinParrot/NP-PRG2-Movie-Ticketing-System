@@ -1,0 +1,17 @@
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\obj\Debug\netcoreapp3.1\PRG2_T07_Team5.csproj.AssemblyReference.cache
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\obj\Debug\netcoreapp3.1\PRG2_T07_Team5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\obj\Debug\netcoreapp3.1\PRG2_T07_Team5.AssemblyInfoInputs.cache
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\obj\Debug\netcoreapp3.1\PRG2_T07_Team5.AssemblyInfo.cs
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\obj\Debug\netcoreapp3.1\PRG2_T07_Team5.csproj.CoreCompileInputs.cache
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\bin\Debug\netcoreapp3.1\PRG2_T07_Team5.exe
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\bin\Debug\netcoreapp3.1\PRG2_T07_Team5.deps.json
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\bin\Debug\netcoreapp3.1\PRG2_T07_Team5.runtimeconfig.json
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\bin\Debug\netcoreapp3.1\PRG2_T07_Team5.runtimeconfig.dev.json
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\bin\Debug\netcoreapp3.1\PRG2_T07_Team5.dll
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\bin\Debug\netcoreapp3.1\PRG2_T07_Team5.pdb
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\obj\Debug\netcoreapp3.1\PRG2_T07_Team5.dll
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\obj\Debug\netcoreapp3.1\PRG2_T07_Team5.pdb
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\obj\Debug\netcoreapp3.1\PRG2_T07_Team5.genruntimeconfig.cache
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\bin\Debug\netcoreapp3.1\Screening.csv
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\bin\Debug\netcoreapp3.1\Cinema.csv
+C:\Users\Kai\OneDrive - Ngee Ann Polytechnic\Poly\Year 1.2\ASG\PRG\PRG2_T07_Team5\PRG2_T07_Team5\bin\Debug\netcoreapp3.1\Movie.csv
